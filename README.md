@@ -70,15 +70,10 @@ uvicorn main:app --reload
 
 ## 📷 Screenshots
 
-### Home page
+### Website
 
 ![app interface](markdown/home.png)
 
 ### Swagger UI
 
 ![swagger UI](markdown/swagger.png)
-
-
-### Demo GIF
-
-![demo gif](markdown/demo.gif)
