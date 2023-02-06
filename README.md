@@ -77,3 +77,7 @@ uvicorn main:app --reload
 ### Swagger UI
 
 ![swagger UI](markdown/swagger.png)
+
+### Demo
+
+![Demo.GIF](markdown/demo.gif)
