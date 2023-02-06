@@ -14,7 +14,7 @@ Diabetes Predictor App is used to predict whether a person has diabetes or not b
 
 ## Dataset Description
 
-The datasets consist of several predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+The dataset consist of several predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 The data contains the following columns:
 
