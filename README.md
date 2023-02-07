@@ -47,7 +47,7 @@ conda activate your_env_name
 Clone the repository using `git`
 
 ```
-git clone https://github.com/Prakashdeveloper03/Diabetes-Predictor.git
+git clone gh repo clone Baktho-SN/Diabetes-Predictor-web-app
 ```
 
 Change to the cloned directory
